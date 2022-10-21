@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pxeebxwlcw7neqtv?svg=true)](https://ci.appveyor.com/project/RushanZur/java-hw-carddelivery)
+[![Build status](https://ci.appveyor.com/api/projects/status/pxeebxwlcw7neqtv/branch/main?svg=true)](https://ci.appveyor.com/project/RushanZur/java-hw-carddelivery/branch/main)
